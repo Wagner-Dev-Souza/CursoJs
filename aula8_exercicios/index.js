@@ -13,9 +13,10 @@ let anoNascimento;
 imc = peso/(altura*altura)
 anoNascimento = 2010 - idade
 
-// `texto completoentre crases` ${escrever o valor aqui} - busca o valor entre chaves
+// `texto completo entre crases` ${escrever o valor aqui} - busca o valor entre chaves
 // ( + )sinal de + soma os numeros ou agrupa as strings
 
 console.log(nome, sobrenome, 'tem', idade, 'anos, pesa', peso,'kg');
 console.log('tem ' + altura + ' de altura e seu imc é de ' + imc);
 console.log(`${nome} nasceu em ${anoNascimento}`); // forma mais moderna e legivel
+
