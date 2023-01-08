@@ -19,3 +19,5 @@ const resultadoDuplicado = resultado * 2;
 console.log (resultadoDuplicado);
 let resultadoTriplicado = resultado * 3;
 console.log (resultadoTriplicado);
+
+console.log(typeof primeiroNumero)

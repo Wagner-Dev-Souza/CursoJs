@@ -18,5 +18,5 @@ anoNascimento = 2010 - idade
 
 console.log(nome, sobrenome, 'tem', idade, 'anos, pesa', peso,'kg');
 console.log('tem ' + altura + ' de altura e seu imc é de ' + imc);
-console.log(`${nome} nasceu em ${anoNascimento}`); // forma mais moderna e legivel
+console.log(`${nome} nasceu em ${anoNascimento}.`); // forma mais moderna e legivel
 

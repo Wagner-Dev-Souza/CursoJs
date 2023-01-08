@@ -1,3 +1,5 @@
+let idade; //declarou a variável, não deu valor a ela (valor undefined)
+idade = 'Qualquer valor';//Inicializou a variável (deu um valor a ela)
 let nome = 'Henrique'; //string
 
 console.log(nome, 'nasceu em 1984.');
