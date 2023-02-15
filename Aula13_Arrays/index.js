@@ -1,5 +1,5 @@
 //array - lista de coisas
-const alunos = ['Luiz', 'Maria', 'João', 1, true, null]; // não é boa pratica de programação por cosias de tipos diferentes num mesmo array
+const alunos = ['Luiz', 'Maria', 'João', 1, true, null]; // não é boa pratica de programação por coisas de tipos diferentes num mesmo array
 console.log (alunos); //porem funciona normalmente
 
 //indexação da strig:
