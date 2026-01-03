@@ -3,7 +3,6 @@ let diaSemana = data.getDay();
 //diaSemana = 7;
 let diaSemanaTexto;
 
-
 //Utilizando IF:
 /*
 if (diaSemana === 0){
